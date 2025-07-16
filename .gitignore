@@ -1,2 +1,6 @@
 .venv
 .DS_STORE
+__pycache__/
+.pytest_cache/
+*.db
+.vscode/
